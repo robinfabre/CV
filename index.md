@@ -1,87 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Robin Fabre CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Robin Fabre
+Consultant BI | Responsable d'application | Talend DI/API
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://robinfabre.github.io/blog/">Blog personnel</a>
+| <a href="https://www.linkedin.com/in/robinfabre/">Profil LinkedIn</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`Févr. 2017 à Aujourd'hui`
+__Consultant BI__
 
-### Specialized in
+- Employeur : *CGI Bordeaux*
+- Responsable d'application
+- Spécialité : Talend DI/API
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Août 2016 à Févr. 2017`
+__Ingénieur d'études et développement Java EE junior__
 
+- Employeur : *DTA Ingénierie*
+- Mission chez CGI Bordeaux
+- Travail en équipe sur des projets B.I. 
 
-### Research interests
+`Mai 2015 à Septembre 2015`
+__Stage en développement web__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Employeur : *Ecocup*, Céret, France
 
 
 
-## Awards
+## Formation
 
-`2012`
-President, *Royal Society*, London, UK
+`2014-2015`
+__Université Pierre Mendès-France (Grenoble II)__
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Master 2 Double compétence : informatique et sciences sociales (régime spécial)
 
 
-## Occupation
+## Centres d'intérêt, Loisirs
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+ˋˋ
+__Crossfit, Course à pied, Cyclisme, Cinéma, Jeux Vidéos, Musique, Photographie__
 
 
 <!-- ### Footer
