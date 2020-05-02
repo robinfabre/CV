@@ -44,7 +44,7 @@ __Université Pierre Mendès-France (Grenoble II)__
 
 ## Centres d'intérêt, Loisirs
 
-ˋˋ
+
 __Crossfit, Course à pied, Cyclisme, Cinéma, Jeux Vidéos, Musique, Photographie__
 
 
